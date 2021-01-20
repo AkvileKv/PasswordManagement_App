@@ -9,4 +9,4 @@ Windows Forms application with SQLite database allows users to manage their pass
 * Update an existing record
 * Search an existing record by name
 * Delete record
-* Aautomated password copying
+* Automated password copying
